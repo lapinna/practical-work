@@ -3,6 +3,6 @@
     height: 100px;
     background: #6C9A33;
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
   }
