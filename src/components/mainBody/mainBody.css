@@ -1,0 +1,8 @@
+.mainBody {
+    width: 100%;
+    height: calc(100vh - 150px);
+    background: #F3F7EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
